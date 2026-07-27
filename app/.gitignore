@@ -1,0 +1,23 @@
+/build
+# 忽略敏感配置文件
+      local.properties
+
+      # 忽略签名和密钥文件
+      *.jks
+      *.keystore
+      secret/
+      keystore.properties
+
+      # 忽略构建产物
+      /build
+      /app/build
+      *.apk
+      *.aab
+
+      # 忽略操作系统生成的临时文件
+      .DS_Store
+      Thumbs.db
+
+      # 忽略 IDE 配置（每个人的 IDE 设置不同）
+      .idea/
+      *.iml
