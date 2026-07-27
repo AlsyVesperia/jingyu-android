@@ -1,7 +1,7 @@
 # 鲸屿
-***Your private AI island in the digital sea.******你在数字海洋中的私人AI岛屿。******你在数字海洋中的专属AI岛屿。******你在数字海洋中的私人AI岛屿。***
+***Your private AI island in the digital sea.***
 
-***数字之海中的私属 AI 屿。***
+***你在数字海洋中的私人AI岛屿。***
 
 
 一个不上架应用市场的安卓 AI 聊天伙伴。
